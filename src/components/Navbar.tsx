@@ -9,9 +9,11 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-24">
           {/* Logo */}
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-[#452C20] tracking-tight">
-              XANTINA
-            </span>
+            <img 
+              src="/xantina_logo.jpg" 
+              alt="Xantina" 
+              className="h-10 w-auto"
+            />
           </div>
 
           {/* Desktop Navigation */}
