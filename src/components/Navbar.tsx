@@ -37,6 +37,12 @@ export default function Navbar() {
               Planes
             </a>
             <a 
+              href="#testimonios" 
+              className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
+            >
+              Testimonios
+            </a>
+            <a 
               href="#equipo" 
               className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
             >
@@ -88,6 +94,12 @@ export default function Navbar() {
                 className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
               >
                 Planes
+              </a>
+              <a 
+                href="#testimonios" 
+                className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
+              >
+                Testimonios
               </a>
               <a 
                 href="#equipo" 
