@@ -1,0 +1,184 @@
+{
+  "HEADER": {
+    "HOME": "Home",
+    "BENEFITS": "Benefits",
+    "PLANS": "Plans",
+    "TESTIMONIALS": "Testimonials",
+    "TEAM": "Team",
+    "CONTACT": "Contact",
+    "LOGIN": "Sign In"
+  },
+  "HERO": {
+    "TITLE": "CONNECT WITH THE COFFEE COMMUNITY.",
+    "SUBTITLE": "Improve your extraction technique, share your passion and discover personalized products with Xantina",
+    "REGISTER": "I want to register"
+  },
+  "BENEFITS": {
+    "TITLE": "Focus on <span class=\"underline\">clear benefits</span>.",
+    "BARISTA": {
+      "TITLE": "For Baristas",
+      "DESCRIPTION": "Extraction assistant, shared recipes, Strava-like social feed and gamification to improve your technique.",
+      "CTA_HIGHLIGHT": "Improve",
+      "CTA_REST": "your technique.",
+      "BUTTON": "View tools for baristas"
+    },
+    "COFFEE_SHOP": {
+      "TITLE": "For Coffee Shops",
+      "DESCRIPTION": "Standardized recipe management, consistency control, barista training and basic business management.",
+      "CTA_HIGHLIGHT": "Optimize",
+      "CTA_REST": "your coffee shop.",
+      "BUTTON": "View business solutions"
+    }
+  },
+  "DATA_SECTION": {
+    "TITLE": "Features that transform your experience.",
+    "SUBTITLE": "From extractions to community, Xantina connects every aspect of your coffee passion.",
+    "INVENTORY_DASHBOARD": {
+      "TITLE": "Extraction Assistant",
+      "DESCRIPTION": "Timer, ratios, step-by-step guides for different methods. Improve your technique with professional tools."
+    },
+    "ROASTING_CURVES": {
+      "TITLE": "Coffee Social Network",
+      "DESCRIPTION": "Share extractions, achievements and tasting notes. Connect with baristas and discover new techniques."
+    }
+  },
+  "PLANS": {
+    "TITLE": "Plans designed for your coffee passion.",
+    "FOOTER": "All our plans include community, personalized support and intuitive tools for baristas and coffee shops.",
+    "BASE_PLAN": {
+      "TITLE": "Basic Barista Plan",
+      "PRICE": "Free",
+      "FEATURES": [
+        "✓ Basic extraction assistant.",
+        "✓ Timer and standard ratios.",
+        "✓ Access to shared recipes.",
+        "✓ Basic social feed.",
+        "✓ Mobile access."
+      ],
+      "BUTTON": "Start Free"
+    },
+    "TECHNICAL_PLAN": {
+      "TITLE": "Premium Barista Plan",
+      "PRICE": "$8/month",
+      "FEATURES": [
+        "✓ Everything from Basic Barista Plan.",
+        "✓ Advanced recipes and analytics.",
+        "✓ Gamification: achievements and challenges.",
+        "✓ Challenges with friends.",
+        "✓ Integrated store with discounts."
+      ],
+      "BUTTON": "Upgrade to Premium"
+    },
+    "ARTIST_PLAN": {
+      "TITLE": "Coffee Shop Plan",
+      "PRICE": "$25/month",
+      "FEATURES": [
+        "✓ Standardized recipe management.",
+        "✓ Consistency control.",
+        "✓ Barista training.",
+        "✓ Location and menu registration.",
+        "✓ Barista control."
+      ],
+      "BUTTON": "Coffee Shop Plan"
+    },
+    "SPECIALTY_PLAN": {
+      "TITLE": "Coffee Shop Pro Plan",
+      "PRICE": "$50/month",
+      "FEATURES": [
+        "✓ Everything from Coffee Shop Plan.",
+        "✓ Advanced extraction analytics.",
+        "✓ POS integration.",
+        "✓ Advanced training modules.",
+        "✓ Priority support."
+      ],
+      "BUTTON": "Pro Plan"
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "What our users say.",
+    "TESTIMONIAL_1": {
+      "NAME": "Martin Gutierrez",
+      "TITLE": "Coffee shop owner",
+      "QUOTE": "Thanks to CafeLab I was able to optimize my processes through intuitive documentation, which improved my planning."
+    },
+    "TESTIMONIAL_2": {
+      "NAME": "Ana Rivera",
+      "TITLE": "Barista in Lima",
+      "QUOTE": "CafeLab helped me standardize my roasts and reduce errors. Now everyone in the coffee shop uses the same recipe."
+    },
+    "REVIEW_1": {
+      "NAME": "Rosa Dominguez",
+      "COMMENT": "Useful, easy to use"
+    },
+    "REVIEW_2": {
+      "NAME": "Miguel Diaz",
+      "COMMENT": "Cost-effective"
+    }
+  },
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions (FAQ)",
+    "VIEW_MORE": "View more...",
+    "FAQ_1": {
+      "QUESTION": "Can I use Xantina if I'm just a barista and don't have a coffee shop?",
+      "ANSWER": "Of course! Xantina adapts to both individual baristas and complete coffee shops. Our Basic Barista Plan is perfect for coffee enthusiasts."
+    },
+    "FAQ_2": {
+      "QUESTION": "What's the difference between the plans?",
+      "ANSWER": "The plans differ in available features: from basic assistant to complete coffee shop management with advanced analytics."
+    },
+    "FAQ_3": {
+      "QUESTION": "Is the app available for mobile?",
+      "ANSWER": "Yes, Xantina works perfectly from mobile browser. The native app is in development and will be available soon."
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "SUBTITLE": "Do you have questions? We are here to help you",
+    "NAME": "Name",
+    "LASTNAME": "Last Name",
+    "EMAIL": "Email",
+    "MESSAGE": "Message",
+    "SEND": "Send",
+    "RESET": "Clear",
+    "REQUIRED_FIELDS": "Required fields",
+    "NAME_PLACEHOLDER": "Enter your name",
+    "LASTNAME_PLACEHOLDER": "Enter your last name",
+    "EMAIL_PLACEHOLDER": "example@email.com",
+    "MESSAGE_PLACEHOLDER": "Write your message here..."
+  },
+  "VALIDATION": {
+    "REQUIRED": "This field is required",
+    "MIN_LENGTH": "Minimum {{min}} characters",
+    "MAX_LENGTH": "Maximum {{max}} characters",
+    "NO_NUMBERS": "Numbers are not allowed",
+    "NO_SPECIAL_CHARS": "Special characters are not allowed",
+    "INVALID_EMAIL": "Invalid email address",
+    "INVALID_DOMAIN": "Invalid email domain",
+    "NO_ONLY_SPACES": "Cannot contain only spaces"
+  },
+  "FOOTER": {
+    "QUICK_LINKS": {
+      "TITLE": "Quick Links",
+      "HOME": "Home",
+      "BENEFITS": "Benefits",
+      "PLANS": "Plans",
+      "CONTACT": "Contact"
+    },
+
+    "RESOURCES": {
+      "TITLE": "Resources",
+      "LINKEDIN": "LinkedIn",
+      "EMAIL": "Email"
+    },
+    "CONTACT_INFO": {
+      "TITLE": "Contact",
+      "EMAIL": "contacto@xantina.com",
+      "WHATSAPP": "WhatsApp: +51 991 829 980"
+    }
+  },
+  "VIDEOS": {
+    "TITLE": "Learn more about us",
+    "ABOUT_TEAM": "About the team",
+    "ABOUT_PRODUCT": "About the product"
+  }
+}

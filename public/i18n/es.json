@@ -1,0 +1,184 @@
+{
+  "HEADER": {
+    "HOME": "Inicio",
+    "BENEFITS": "Beneficios",
+    "PLANS": "Planes",
+    "TESTIMONIALS": "Testimonios",
+    "TEAM": "Equipo",
+    "CONTACT": "Contactos",
+    "LOGIN": "Iniciar sesión"
+  },
+  "HERO": {
+    "TITLE": "CONECTA CON LA COMUNIDAD CAFETALERA.",
+    "SUBTITLE": "Mejora tu técnica de extracción, comparte tu pasión y descubre productos personalizados con Xantina",
+    "REGISTER": "Quiero registrarme"
+  },
+  "BENEFITS": {
+    "TITLE": "Enfoque en <span class=\"underline\">beneficios claros</span>.",
+    "BARISTA": {
+      "TITLE": "Para Baristas",
+      "DESCRIPTION": "Asistente de extracción, recetas compartidas, feed social tipo Strava y gamificación para mejorar tu técnica.",
+      "CTA_HIGHLIGHT": "Mejora",
+      "CTA_REST": "tu técnica.",
+      "BUTTON": "Ver herramientas para baristas"
+    },
+    "COFFEE_SHOP": {
+      "TITLE": "Para Cafeterías",
+      "DESCRIPTION": "Gestión de recetas estandarizadas, control de consistencia, entrenamiento barista y gestión básica de negocio.",
+      "CTA_HIGHLIGHT": "Optimiza",
+      "CTA_REST": "tu cafetería.",
+      "BUTTON": "Ver soluciones para negocios"
+    }
+  },
+  "DATA_SECTION": {
+    "TITLE": "Funcionalidades que transforman tu experiencia.",
+    "SUBTITLE": "Desde extracciones hasta comunidad, Xantina conecta cada aspecto de tu pasión cafetalera.",
+    "INVENTORY_DASHBOARD": {
+      "TITLE": "Asistente de Extracción",
+      "DESCRIPTION": "Temporizador, ratios, guías paso a paso para distintos métodos. Mejora tu técnica con herramientas profesionales."
+    },
+    "ROASTING_CURVES": {
+      "TITLE": "Red Social Cafetalera",
+      "DESCRIPTION": "Comparte extracciones, logros y notas de cata. Conecta con baristas y descubre nuevas técnicas."
+    }
+  },
+  "PLANS": {
+    "TITLE": "Planes diseñados para tu pasión cafetalera.",
+    "FOOTER": "Todos nuestros planes incluyen comunidad, soporte personalizado y herramientas intuitivas para baristas y cafeterías.",
+    "BASE_PLAN": {
+      "TITLE": "Plan Barista Básico",
+      "PRICE": "Gratis",
+      "FEATURES": [
+        "✓ Asistente de extracción básico.",
+        "✓ Temporizador y ratios estándar.",
+        "✓ Acceso a recetas compartidas.",
+        "✓ Feed social básico.",
+        "✓ Acceso desde móvil."
+      ],
+      "BUTTON": "Comenzar Gratis"
+    },
+    "TECHNICAL_PLAN": {
+      "TITLE": "Plan Barista Premium",
+      "PRICE": "s/.29/mes",
+      "FEATURES": [
+        "✓ Todo Plan Barista Básico.",
+        "✓ Recetas avanzadas y analíticas.",
+        "✓ Gamificación: logros y retos.",
+        "✓ Retos con amigos.",
+        "✓ Tienda integrada con descuentos."
+      ],
+      "BUTTON": "Upgrade a Premium"
+    },
+    "ARTIST_PLAN": {
+      "TITLE": "Plan Cafetería",
+      "PRICE": "s/.99/mes",
+      "FEATURES": [
+        "✓ Gestión de recetas estandarizadas.",
+        "✓ Control de consistencia.",
+        "✓ Entrenamiento barista.",
+        "✓ Registro de locales y menús.",
+        "✓ Control de baristas."
+      ],
+      "BUTTON": "Plan para Cafeterías"
+    },
+    "SPECIALTY_PLAN": {
+      "TITLE": "Plan Cafetería Pro",
+      "PRICE": "s/.199/mes",
+      "FEATURES": [
+        "✓ Todo Plan Cafetería.",
+        "✓ Analítica avanzada de extracción.",
+        "✓ Integración con POS.",
+        "✓ Módulos de capacitación avanzada.",
+        "✓ Soporte prioritario."
+      ],
+      "BUTTON": "Plan Pro"
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "Lo que dicen nuestros usuarios.",
+    "TESTIMONIAL_1": {
+      "NAME": "Martin Gutierrez",
+      "TITLE": "Dueño de cafetería",
+      "QUOTE": "Gracias a CafeLab pude optimizar mis procesos mediante documentaciones intuitivas, lo que mejoró mis planificaciones."
+    },
+    "TESTIMONIAL_2": {
+      "NAME": "Ana Rivera",
+      "TITLE": "Barista en Lima",
+      "QUOTE": "CafeLab me ayudó a estandarizar mis tuestes y reducir errores. Ahora todos en la cafetería usan la misma receta."
+    },
+    "REVIEW_1": {
+      "NAME": "Rosa Dominguez",
+      "COMMENT": "Útil, fácil de usar"
+    },
+    "REVIEW_2": {
+      "NAME": "Miguel Diaz",
+      "COMMENT": "Rentable"
+    }
+  },
+  "FAQ": {
+    "TITLE": "Preguntas Frecuentes (FAQ)",
+    "VIEW_MORE": "Ver más...",
+    "FAQ_1": {
+      "QUESTION": "¿Puedo usar Xantina si solo soy barista y no tengo cafetería?",
+      "ANSWER": "¡Claro! Xantina se adapta tanto a baristas individuales como a cafeterías completas. Nuestro Plan Barista Básico es perfecto para aficionados al café."
+    },
+    "FAQ_2": {
+      "QUESTION": "¿Qué diferencia hay entre los planes?",
+      "ANSWER": "Los planes difieren en funciones disponibles: desde asistente básico hasta gestión completa de cafeterías con analíticas avanzadas."
+    },
+    "FAQ_3": {
+      "QUESTION": "¿La app está disponible para móvil?",
+      "ANSWER": "Sí, Xantina funciona perfectamente desde navegador móvil. La app nativa está en desarrollo y estará disponible pronto."
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Contáctanos",
+    "SUBTITLE": "¿Tienes preguntas? Estamos aquí para ayudarte",
+    "NAME": "Nombre",
+    "LASTNAME": "Apellidos",
+    "EMAIL": "Correo electrónico",
+    "MESSAGE": "Mensaje",
+    "SEND": "Enviar",
+    "RESET": "Limpiar",
+    "REQUIRED_FIELDS": "Campos requeridos",
+    "NAME_PLACEHOLDER": "Ingresa tu nombre",
+    "LASTNAME_PLACEHOLDER": "Ingresa tus apellidos",
+    "EMAIL_PLACEHOLDER": "ejemplo@correo.com",
+    "MESSAGE_PLACEHOLDER": "Escribe tu mensaje aquí..."
+  },
+  "VALIDATION": {
+    "REQUIRED": "Este campo es obligatorio",
+    "MIN_LENGTH": "Mínimo {{min}} caracteres",
+    "MAX_LENGTH": "Máximo {{max}} caracteres",
+    "NO_NUMBERS": "No se permiten números",
+    "NO_SPECIAL_CHARS": "No se permiten caracteres especiales",
+    "INVALID_EMAIL": "Correo electrónico inválido",
+    "INVALID_DOMAIN": "Dominio de correo inválido",
+    "NO_ONLY_SPACES": "No puede contener solo espacios"
+  },
+  "FOOTER": {
+    "QUICK_LINKS": {
+      "TITLE": "Enlaces rápidos",
+      "HOME": "Inicio",
+      "BENEFITS": "Beneficios",
+      "PLANS": "Planes",
+      "CONTACT": "Contactos"
+    },
+
+    "RESOURCES": {
+      "TITLE": "Recursos",
+      "LINKEDIN": "LinkedIn",
+      "EMAIL": "Correo"
+    },
+    "CONTACT_INFO": {
+      "TITLE": "Contacto",
+      "EMAIL": "contacto@xantina.com",
+      "WHATSAPP": "WhatsApp: +51 991 829 980"
+    }
+  },
+  "VIDEOS": {
+    "TITLE": "Conoce más sobre Nosotros",
+    "ABOUT_TEAM": "Sobre el equipo",
+    "ABOUT_PRODUCT": "Sobre el producto"
+  }
+}
