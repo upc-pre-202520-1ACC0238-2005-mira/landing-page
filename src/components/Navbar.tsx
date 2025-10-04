@@ -31,16 +31,16 @@ export default function Navbar() {
               Para Cafeterías
             </a>
             <a 
-              href="#comunidad" 
+              href="#planes" 
               className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
             >
-              Comunidad
+              Planes
             </a>
             <a 
-              href="#tienda" 
+              href="#equipo" 
               className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
             >
-              Tienda
+              Equipo
             </a>
           </div>
 
@@ -84,16 +84,16 @@ export default function Navbar() {
                 Para Cafeterías
               </a>
               <a 
-                href="#comunidad" 
+                href="#planes" 
                 className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
               >
-                Comunidad
+                Planes
               </a>
               <a 
-                href="#tienda" 
+                href="#equipo" 
                 className="text-[#452C20] hover:text-[#202245] transition-colors duration-300 text-sm tracking-wide uppercase"
               >
-                Tienda
+                Equipo
               </a>
               <button className="bg-[#202245] text-white px-8 py-3 hover:bg-[#452C20] transition-all duration-300 text-sm tracking-wide uppercase text-center">
                 Comenzar

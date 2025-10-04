@@ -38,7 +38,7 @@ export default function ProductsSection() {
   ];
 
   return (
-    <section className="bg-[#F5F3F0] border-t border-black">
+    <section id="equipo" className="bg-[#F5F3F0] border-t border-black">
       <div className="max-w-[1600px] mx-auto px-6 lg:px-12 py-24 lg:py-32">
         {/* Título */}
         <h2 className="font-serif text-4xl lg:text-5xl text-[#452C20] mb-16 lg:mb-20">
