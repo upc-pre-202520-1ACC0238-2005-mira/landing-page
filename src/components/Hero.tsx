@@ -41,70 +41,15 @@ export default function Hero() {
         </div>
       </section>
 
-      {/* Para Baristas Section */}
-      <section id="baristas" className="bg-[#F5F3F0] border-t border-black">
-        <div className="max-w-[1600px] mx-auto px-6 lg:px-12 py-24 lg:py-32">
-          <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
-            <div className="space-y-8">
-              <div className="space-y-4">
-                <h3 className="text-sm tracking-widest uppercase text-[#9A857C]">Para Baristas</h3>
-                <h2 className="font-serif text-4xl lg:text-6xl text-[#452C20] leading-tight">
-                  Aprende, Extrae y Conecta
-                </h2>
-              </div>
-              
-              <p className="text-lg text-[#452C20]/70 leading-relaxed">
-                Convierte cada taza en una oportunidad para crecer. Encuentra recetas, 
-                sigue a otros baristas y comparte tus descubrimientos con la comunidad.
-              </p>
-
-              <div className="space-y-6 pt-4">
-                <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-1 h-12 bg-[#202245]"></div>
-                  <div>
-                    <h4 className="font-medium text-[#452C20] mb-2">Asistente de Extracción</h4>
-                    <p className="text-[#452C20]/70">Temporizador, ratios y guías paso a paso para distintos métodos</p>
-                  </div>
-                </div>
-                <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-1 h-12 bg-[#202245]"></div>
-                  <div>
-                    <h4 className="font-medium text-[#452C20] mb-2">Red Social</h4>
-                    <p className="text-[#452C20]/70">Comparte extracciones, logros y actividad dentro de la app</p>
-                  </div>
-                </div>
-                <div className="flex items-start space-x-4">
-                  <div className="flex-shrink-0 w-1 h-12 bg-[#202245]"></div>
-                  <div>
-                    <h4 className="font-medium text-[#452C20] mb-2">Gamificación</h4>
-                    <p className="text-[#452C20]/70">Logros por métodos usados, días consecutivos y retos con amigos</p>
-                  </div>
-                </div>
-              </div>
-
-              <button className="bg-[#202245] text-white px-10 py-4 hover:bg-[#452C20] transition-all duration-300 text-sm tracking-widest uppercase mt-8">
-                Comenzar Gratis
-              </button>
-            </div>
-
-            <div className="relative h-[600px] rounded-sm overflow-hidden">
-              <img 
-                src="/curva_tueste.png" 
-                alt="Tu viaje cafetalero" 
-                className="w-full h-full object-cover"
-              />
-            </div>
-          </div>
-        </div>
-      </section>
+     
 
       {/* Para Cafeterías Section */}
       <section id="cafeterias" className="bg-white border-t border-black">
         <div className="max-w-[1600px] mx-auto px-6 lg:px-12 py-24 lg:py-32">
           <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
-            <div className="relative h-[600px] rounded-sm overflow-hidden order-2 lg:order-1">
+          <div className="relative h-[600px] rounded-sm overflow-hidden order-2 lg:order-1">
               <img 
-                src="/dashboard_inventario.png" 
+                src="/cafe3.jpg" 
                 alt="Gestión profesional" 
                 className="w-full h-full object-cover"
               />
@@ -151,6 +96,66 @@ export default function Hero() {
                 Solicitar Demo
               </button>
             </div>
+          </div>
+        </div>
+      </section>
+
+       {/* Para Baristas Section */}
+       <section id="baristas" className="bg-[#F5F3F0] border-t border-black">
+        <div className="max-w-[1600px] mx-auto px-6 lg:px-12 py-24 lg:py-32">
+          <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
+
+          
+            
+            <div className="space-y-8">
+              <div className="space-y-4">
+                <h3 className="text-sm tracking-widest uppercase text-[#9A857C]">Para Baristas</h3>
+                <h2 className="font-serif text-4xl lg:text-6xl text-[#452C20] leading-tight">
+                  Aprende, Extrae y Conecta
+                </h2>
+              </div>
+              
+              <p className="text-lg text-[#452C20]/70 leading-relaxed">
+                Convierte cada taza en una oportunidad para crecer. Encuentra recetas, 
+                sigue a otros baristas y comparte tus descubrimientos con la comunidad.
+              </p>
+
+              <div className="space-y-6 pt-4">
+                <div className="flex items-start space-x-4">
+                  <div className="flex-shrink-0 w-1 h-12 bg-[#202245]"></div>
+                  <div>
+                    <h4 className="font-medium text-[#452C20] mb-2">Asistente de Extracción</h4>
+                    <p className="text-[#452C20]/70">Temporizador, ratios y guías paso a paso para distintos métodos</p>
+                  </div>
+                </div>
+                <div className="flex items-start space-x-4">
+                  <div className="flex-shrink-0 w-1 h-12 bg-[#202245]"></div>
+                  <div>
+                    <h4 className="font-medium text-[#452C20] mb-2">Red Social</h4>
+                    <p className="text-[#452C20]/70">Comparte extracciones, logros y actividad dentro de la app</p>
+                  </div>
+                </div>
+                <div className="flex items-start space-x-4">
+                  <div className="flex-shrink-0 w-1 h-12 bg-[#202245]"></div>
+                  <div>
+                    <h4 className="font-medium text-[#452C20] mb-2">Gamificación</h4>
+                    <p className="text-[#452C20]/70">Logros por métodos usados, días consecutivos y retos con amigos</p>
+                  </div>
+                </div>
+              </div>
+
+              <button className="bg-[#202245] text-white px-10 py-4 hover:bg-[#452C20] transition-all duration-300 text-sm tracking-widest uppercase mt-8">
+                Comenzar Gratis
+              </button>
+            </div>
+            <div className="relative h-[600px] rounded-sm overflow-hidden">
+              <img 
+                src="/cafe2.jpg" 
+                alt="Tu viaje cafetalero" 
+                className="w-full h-full object-cover"
+              />
+            </div>
+           
           </div>
         </div>
       </section>
