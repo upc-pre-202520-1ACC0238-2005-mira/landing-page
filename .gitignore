@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Large PDF files
+Xantina Brand Guidelines.pdf
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
