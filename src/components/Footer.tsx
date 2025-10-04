@@ -4,7 +4,7 @@ export default function Footer() {
       {/* Large Logo Section */}
       <div className="py-20 lg:py-32 overflow-hidden">
         <div className="w-full px-6 lg:px-12">
-          <h2 className="font-bold text-[8rem] sm:text-[12rem] lg:text-[18rem] xl:text-[24rem] text-white leading-[0.85] tracking-tighter w-full text-center">
+          <h2 className="font-bold text-[4rem] sm:text-[8rem] md:text-[12rem] lg:text-[18rem] xl:text-[24rem] text-white leading-[0.85] tracking-tighter w-full text-center break-words">
             XANTINA
           </h2>
         </div>
