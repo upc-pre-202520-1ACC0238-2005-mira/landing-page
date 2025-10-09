@@ -40,6 +40,11 @@ export default function Footer() {
                   Tienda
                 </a>
               </li>
+              <li>
+                <a href="/terminos.html" target="_blank" rel="noopener noreferrer" className="text-white/70 hover:text-white transition-colors text-sm">
+                  Términos y Condiciones
+                </a>
+              </li>
             </ul>
           </div>
 
